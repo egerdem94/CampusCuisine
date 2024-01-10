@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553653248027",
+    "project_id": "campuscuisine",
+    "storage_bucket": "campuscuisine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553653248027:android:ee6a7e795d484c678658be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qMgpG5GhWqRfPt_gN5n5RUkb9eQRBtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
