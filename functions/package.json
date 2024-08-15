@@ -14,7 +14,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "firebase-admin": "^11.8.0",
+    "firebase-admin": "^12.3.1",
     "firebase-functions": "^4.3.1",
     "nodemailer": "^6.9.8"
   },
